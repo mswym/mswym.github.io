@@ -1,8 +1,8 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Piled Stones
+email:       masataka_sawayama@ipc.i.u-tokyo.ac.jp
+author:      Masataka Sawayama
+description: "Notes about research written in Japanese. The manuscript may be updated occasionally, but you can browse the history in my GitHub repository. "
 baseurl:     ""
 url: "https://mswym.github.io"
 date_format: "%b %-d, %Y"
