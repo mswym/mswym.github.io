@@ -1,94 +1,17 @@
 ---
 layout: page
-title: About Pixyll
+title: About Piled Stones
 permalink: /about/
 tags: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](https://johno.com/)
-([@4lpine](https://twitter.com/4lpine)).
+このノートは著者（澤山正貴）の公開アイディア帳です．
+研究に関する覚書きなどを書きます．主に著者自身が後から振り返るために書いています．
+そのため，読者の背景知識によっては説明の足りない箇所もあると思います．
+また，記事の日付けは，記事の書き始めの日付を意味しますが，予告なく編集します．
+Githubリポジトリを使って書くので，編集履歴を知りたい方は以下のリポジトリをご確認ください．
 
-Checkout the [GitHub repository](https://github.com/johno/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](https://opensource.org/licenses/MIT)).
-
-Thanks to the following:
-
-* [BASSCSS](https://basscss.com/)
-* [Jekyll](https://jekyllrb.com/)
-* [Refills](https://refills.bourbon.io/)
-* [Type Scale](https://type-scale.com/)
-
-List of contributors:
-
-- Aaron S. Hawley
-- Adam Menges
-- Alex Claman
-- Alex Johnson
-- Alex Touchet
-- Allister Antosik
-- Amin Bandali
-- Anders Nissen
-- Andrea Margiovanni
-- Andreas Niedermair
-- Andrzej Ośmiałowski
-- Anuj More
-- Arvind Chembarpu
-- Assaf Gelber
-- Barry vd. Heuvel
-- Bartek Krzemień
-- Benjamin Sinkula
-- Bennett Rogers
-- Brian Gaid
-- Brian Hurst
-- Chee Yeo
-- Cody Chan
-- Cristian Henrique
-- David Ernst
-- David Moodie
-- Donate Altenburger
-- Eddie Schoute
-- Fernando Mantoan
-- Gurchet Rai
-- Harish Narayanan
-- Jack Platten
-- Jehan Tremback
-- Jiaxi Gu (Isaac)
-- John Otander
-- Jordan Danielewski
-- Josh Buxton
-- Kirill Kulikov
-- Kyle Maxwell
-- Marta Sztybor
-- Martin Wagner
-- Matthew Graybosch
-- Maxim Tsoy
-- Mete Balci
-- Mike Lloyd
-- Mikhail Grachev
-- mindwind
-- Nick Rakochy
-- Nikolay Georgiev
-- Noel Bautista
-- Oliver Hamlet
-- Onur (e0i)
-- Praveer Gupta
-- Rassol (Karmeye)
-- Renato Fialho
-- Ricky Han
-- Roberto Pesando
-- Ryan Jacobs
-- Scott Martin
-- Selim Eren Bekçe
-- Shruti Rijhwani
-- Steef Hegeman
-- Tehmasp Chaudhri
-- Thomas Galvin
-- Timothy Gu
-- Tom Kraak
-- Vishnu Ks
-- Vladislav Arbatov
-- Wilfred Hughes
-- Yaroslav Yadrishnikov
-- Yee Chie Tu
-- Yeou Chien
+About Jekyll teme:
+このノートのテーマは，[John Otander](https://johno.com/)氏によって作成されたJekyllテーマを利用しています．
+元のテーマをご覧になる方は以下を参照ください．
+https://github.com/johno/pixyll
