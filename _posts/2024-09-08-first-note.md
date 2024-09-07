@@ -3,7 +3,7 @@ layout:     post
 title:      Initial post
 date:       2024-09-08 12:00:29
 summary:    Motivation to start the "piled stones"
-categories: note
+categories: jekyll
 ---
 
 研究に関する覚書を公開しながら残すことにした．
