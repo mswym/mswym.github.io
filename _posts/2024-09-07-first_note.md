@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Initial post
-date:       2024-09-08 12:00:29
+date:       2024-09-07 10:00:00 +0900
 summary:    Motivation to start the "piled stones"
 categories: jekyll pixyll
 ---
