@@ -8,7 +8,7 @@ url: "https://mswym.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
-theme: jekyll-theme-pixyll
+
 # Google services
 google_verification:
 # Use either direct GA implementation or set up GTM account
