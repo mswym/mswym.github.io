@@ -21,5 +21,3 @@ categories: color
 Zhang, L. Q., Cottaris, N. P., & Brainard, D. H. (2022). An image reconstruction framework for characterizing initial visual encoding. Elife, 11, e71132.
 [https://elifesciences.org/articles/71132](https://elifesciences.org/articles/71132)
 <br><br>
-
-![Zhang_et_al_2022](https://github.com/mswym/mswym.github.io/blob/master/images/elife-71132-fig1-v3.jpg "Zhang_et_al_2022")
