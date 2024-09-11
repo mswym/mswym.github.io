@@ -15,10 +15,11 @@ categories: color
 こうした好奇心に答えるひとつの研究アプローチは，視覚のセンシングについてのシミュレーターを開発することである．光入力に対する人間のセンシング過程を精密に再現することができれば，そのパラメータを操作することで，通常とは違うセンサを持って世界をみるとどうなるかを探ることができる．さらに，大規模な自然画像をそのシミュレータを通して解析することで，私たちが持つ視覚センシングの機能的な必然性に迫ることが可能になる．
 <br><br>
 
-こうした試みを長年行っているのがISETBioというオープンソースプロジェクトだ（https://github.com/isetbio/isetbio/wiki）．次の記事では，このプロジェクトを利用した以下の近年の論文を紹介する．
+こうした試みを長年行っているのがISETBioというオープンソースプロジェクトだ（[https://github.com/isetbio/isetbio/wiki](https://github.com/isetbio/isetbio/wiki)）．次の記事では，このプロジェクトを利用した以下の近年の論文を紹介する．
 <br><br>
 
 Zhang, L. Q., Cottaris, N. P., & Brainard, D. H. (2022). An image reconstruction framework for characterizing initial visual encoding. Elife, 11, e71132.
-https://elifesciences.org/articles/71132
+[https://elifesciences.org/articles/71132](https://elifesciences.org/articles/71132)
+<br><br>
 
-![Zhang_et_al_2022](../images/elife-71132-fig1-v3.jpg "Zhang_et_al_2022")
+![Zhang_et_al_2022](https://github.com/mswym/mswym.github.io/blob/master/images/elife-71132-fig1-v3.jpg "Zhang_et_al_2022")
